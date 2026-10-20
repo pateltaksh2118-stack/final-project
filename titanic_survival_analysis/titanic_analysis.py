@@ -21,7 +21,7 @@ import urllib.request
 
 import matplotlib
 
-matplotlib.use("Agg")  # save plots to files; --show switches to an interactive backend
+matplotlib.use("Agg") 
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -31,7 +31,6 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DEFAULT_DATA = os.path.join(BASE_DIR, "data", "titanic.csv")
 OUTPUT_DIR = os.path.join(BASE_DIR, "output")
 
-# Public copies of the real dataset (tried in order if no local file exists)
 DATA_URLS = [
     "https://raw.githubusercontent.com/mwaskom/seaborn-data/master/titanic.csv",
     "https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv",
@@ -40,9 +39,6 @@ DATA_URLS = [
 SURVIVAL_PALETTE = {"Died": "#c0504d", "Survived": "#2a7f62"}
 
 
-# --------------------------------------------------------------------------
-# 1. Loading
-# --------------------------------------------------------------------------
 def download_dataset(dest):
     """Try each public URL until one works. Returns True on success."""
     os.makedirs(os.path.dirname(dest), exist_ok=True)
@@ -52,7 +48,7 @@ def download_dataset(dest):
             urllib.request.urlretrieve(url, dest)
             if os.path.getsize(dest) > 1000:
                 return True
-        except Exception as exc:  # network blocked, 404, ...
+        except Exception as exc:  
             print(f"  failed: {exc}")
     return False
 
@@ -72,9 +68,6 @@ def load_data(path=None):
     return df
 
 
-# --------------------------------------------------------------------------
-# 2. Cleaning & feature engineering
-# --------------------------------------------------------------------------
 def standardize_columns(df):
     """Support both the Kaggle schema and the seaborn schema."""
     df = df.copy()
@@ -95,7 +88,6 @@ def clean_data(df):
     df = df.drop_duplicates()
     df["sex"] = df["sex"].str.lower().str.strip()
 
-    # Age: fill with the median age of the passenger's class + sex group
     df["age_was_missing"] = df["age"].isna()
     df["age"] = df["age"].fillna(df.groupby(["pclass", "sex"])["age"].transform("median"))
     df["age"] = df["age"].fillna(df["age"].median())
@@ -105,14 +97,12 @@ def clean_data(df):
         df["embarked"] = df["embarked"].fillna(df["embarked"].mode()[0])
         df["embarked"] = df["embarked"].map({"S": "Southampton", "C": "Cherbourg", "Q": "Queenstown"}) \
             .fillna(df["embarked"])
-
-    # Cabin is ~77% missing in the raw data: keep only "has a recorded cabin?"
+        
     for cabin_col in ("cabin", "deck"):
         if cabin_col in df.columns:
             df["has_cabin"] = df[cabin_col].notna()
             break
 
-    # Engineered features
     df["survival"] = df["survived"].map({0: "Died", 1: "Survived"})
     df["age_group"] = pd.cut(
         df["age"], bins=[0, 12, 18, 35, 60, 120],
@@ -134,9 +124,6 @@ def clean_data(df):
     return df.reset_index(drop=True), report
 
 
-# --------------------------------------------------------------------------
-# 3. Numerical analysis
-# --------------------------------------------------------------------------
 def rate(df, by):
     """Survival rate (%) and passenger count for each value of `by`."""
     g = df.groupby(by, observed=True)["survived"].agg(["mean", "count"])
@@ -175,14 +162,12 @@ def build_summary(df, report):
     add("\nAverage age / fare (survivors vs. non-survivors):")
     add(df.groupby("survival")[["age", "fare"]].mean().round(2).to_string())
 
-    # NumPy: correlation of each numeric feature with survival
     num_cols = [c for c in ("pclass", "age", "fare", "family_size") if c in df.columns]
     corr = {c: float(np.corrcoef(df[c].to_numpy(float), df["survived"].to_numpy(float))[0, 1]) for c in num_cols}
     add("\nCorrelation with survival (Pearson r):")
     for c, v in sorted(corr.items(), key=lambda kv: -abs(kv[1])):
         add(f"  {c:<12} {v:+.3f}")
 
-    # Key findings, computed from the data (not hard-coded)
     sx = rate(df, "sex")["survival_rate_%"]
     pc = rate(df, "pclass")["survival_rate_%"]
     ag = rate(df, "age_group")["survival_rate_%"]
@@ -196,9 +181,6 @@ def build_summary(df, report):
     return "\n".join(lines)
 
 
-# --------------------------------------------------------------------------
-# 4. Visualisations
-# --------------------------------------------------------------------------
 def _save(fig, name):
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     fig.tight_layout()
@@ -316,9 +298,6 @@ def plot_title(df):
     return fig
 
 
-# --------------------------------------------------------------------------
-# 5. Main
-# --------------------------------------------------------------------------
 def main():
     parser = argparse.ArgumentParser(description="Titanic survival EDA")
     parser.add_argument("--data", help="path to Titanic CSV (default: data/titanic.csv, auto-download)")
