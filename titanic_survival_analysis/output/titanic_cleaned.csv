@@ -1,0 +1,785 @@
+survived,pclass,sex,age,sibsp,parch,fare,embarked,class,who,adult_male,deck,embark_town,alive,alone,age_was_missing,has_cabin,survival,age_group,family_size,is_alone,family_group,fare_band
+0,3,male,22.0,1,0,7.25,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),Low
+1,1,female,38.0,1,0,71.2833,Cherbourg,First,woman,False,C,Cherbourg,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+1,3,female,26.0,0,0,7.925,Southampton,Third,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+1,1,female,35.0,1,0,53.1,Southampton,First,woman,False,C,Southampton,yes,False,False,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+0,3,male,35.0,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,25.0,0,0,8.4583,Queenstown,Third,man,True,,Queenstown,no,True,True,False,Died,Adult (19-35),1,True,Alone,Medium
+0,1,male,54.0,0,0,51.8625,Southampton,First,man,True,E,Southampton,no,True,False,True,Died,Middle-aged (36-60),1,True,Alone,Very high
+0,3,male,2.0,3,1,21.075,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),5,False,Large (5+),High
+1,3,female,27.0,0,2,11.1333,Southampton,Third,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),3,False,Small (2-4),Medium
+1,2,female,14.0,1,0,30.0708,Cherbourg,Second,child,False,,Cherbourg,yes,False,False,False,Survived,Teen (13-18),2,False,Small (2-4),High
+1,3,female,4.0,1,1,16.7,Southampton,Third,child,False,G,Southampton,yes,False,False,True,Survived,Child (0-12),3,False,Small (2-4),High
+1,1,female,58.0,0,0,26.55,Southampton,First,woman,False,C,Southampton,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,High
+0,3,male,20.0,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,39.0,1,5,31.275,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Middle-aged (36-60),7,False,Large (5+),High
+0,3,female,14.0,0,0,7.8542,Southampton,Third,child,False,,Southampton,no,True,False,False,Died,Teen (13-18),1,True,Alone,Low
+1,2,female,55.0,0,0,16.0,Southampton,Second,woman,False,,Southampton,yes,True,False,False,Survived,Middle-aged (36-60),1,True,Alone,High
+0,3,male,2.0,4,1,29.125,Queenstown,Third,child,False,,Queenstown,no,False,False,False,Died,Child (0-12),6,False,Large (5+),High
+1,2,male,30.5,0,0,13.0,Southampton,Second,man,True,,Southampton,yes,True,True,False,Survived,Adult (19-35),1,True,Alone,Medium
+0,3,female,31.0,1,0,18.0,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),High
+1,3,female,22.0,0,0,7.225,Cherbourg,Third,woman,False,,Cherbourg,yes,True,True,False,Survived,Adult (19-35),1,True,Alone,Low
+0,2,male,35.0,0,0,26.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,High
+1,2,male,34.0,0,0,13.0,Southampton,Second,man,True,D,Southampton,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Medium
+1,3,female,15.0,0,0,8.0292,Queenstown,Third,child,False,,Queenstown,yes,True,False,False,Survived,Teen (13-18),1,True,Alone,Low
+1,1,male,28.0,0,0,35.5,Southampton,First,man,True,A,Southampton,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Very high
+0,3,female,8.0,3,1,21.075,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),5,False,Large (5+),High
+1,3,female,38.0,1,5,31.3875,Southampton,Third,woman,False,,Southampton,yes,False,False,False,Survived,Middle-aged (36-60),7,False,Large (5+),High
+0,3,male,25.0,0,0,7.225,Cherbourg,Third,man,True,,Cherbourg,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+0,1,male,19.0,3,2,263.0,Southampton,First,man,True,C,Southampton,no,False,False,True,Died,Adult (19-35),6,False,Large (5+),Very high
+1,3,female,22.0,0,0,7.8792,Queenstown,Third,woman,False,,Queenstown,yes,True,True,False,Survived,Adult (19-35),1,True,Alone,Low
+0,3,male,25.0,0,0,7.8958,Southampton,Third,man,True,,Southampton,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+0,1,male,40.0,0,0,27.7208,Cherbourg,First,man,True,,Cherbourg,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,High
+1,1,female,35.0,1,0,146.5208,Cherbourg,First,woman,False,B,Cherbourg,yes,False,True,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+1,3,female,22.0,0,0,7.75,Queenstown,Third,woman,False,,Queenstown,yes,True,True,False,Survived,Adult (19-35),1,True,Alone,Low
+0,2,male,66.0,0,0,10.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Senior (60+),1,True,Alone,Medium
+0,1,male,28.0,1,0,82.1708,Cherbourg,First,man,True,,Cherbourg,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),Very high
+0,1,male,42.0,1,0,52.0,Southampton,First,man,True,,Southampton,no,False,False,False,Died,Middle-aged (36-60),2,False,Small (2-4),Very high
+1,3,male,25.0,0,0,7.2292,Cherbourg,Third,man,True,,Cherbourg,yes,True,True,False,Survived,Adult (19-35),1,True,Alone,Low
+0,3,male,21.0,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,female,18.0,2,0,18.0,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Teen (13-18),3,False,Small (2-4),High
+1,3,female,14.0,1,0,11.2417,Cherbourg,Third,child,False,,Cherbourg,yes,False,False,False,Survived,Teen (13-18),2,False,Small (2-4),Medium
+0,3,female,40.0,1,0,9.475,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Middle-aged (36-60),2,False,Small (2-4),Medium
+0,2,female,27.0,1,0,21.0,Southampton,Second,woman,False,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),High
+0,3,male,25.0,0,0,7.8958,Cherbourg,Third,man,True,,Cherbourg,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+1,2,female,3.0,1,2,41.5792,Cherbourg,Second,child,False,,Cherbourg,yes,False,False,False,Survived,Child (0-12),4,False,Small (2-4),Very high
+1,3,female,19.0,0,0,7.8792,Queenstown,Third,woman,False,,Queenstown,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+0,3,male,25.0,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,25.0,1,0,15.5,Queenstown,Third,man,True,,Queenstown,no,False,True,False,Died,Adult (19-35),2,False,Small (2-4),Medium
+0,3,male,25.0,2,0,21.6792,Cherbourg,Third,man,True,,Cherbourg,no,False,True,False,Died,Adult (19-35),3,False,Small (2-4),High
+0,3,female,18.0,1,0,17.8,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Teen (13-18),2,False,Small (2-4),High
+0,3,male,7.0,4,1,39.6875,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),6,False,Large (5+),Very high
+0,3,male,21.0,0,0,7.8,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,1,female,49.0,1,0,76.7292,Cherbourg,First,woman,False,D,Cherbourg,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+1,2,female,29.0,1,0,26.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),2,False,Small (2-4),High
+0,1,male,65.0,0,1,61.9792,Cherbourg,First,man,True,B,Cherbourg,no,False,False,True,Died,Senior (60+),2,False,Small (2-4),Very high
+1,1,male,40.0,0,0,35.5,Southampton,First,man,True,C,Southampton,yes,True,True,True,Survived,Middle-aged (36-60),1,True,Alone,Very high
+1,2,female,21.0,0,0,10.5,Southampton,Second,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Medium
+0,3,male,28.5,0,0,7.2292,Cherbourg,Third,man,True,,Cherbourg,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,2,female,5.0,1,2,27.75,Southampton,Second,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),4,False,Small (2-4),High
+0,3,male,11.0,5,2,46.9,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),8,False,Large (5+),Very high
+0,3,male,22.0,0,0,7.2292,Cherbourg,Third,man,True,,Cherbourg,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,1,female,38.0,0,0,80.0,Southampton,First,woman,False,B,,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,Very high
+0,1,male,45.0,1,0,83.475,Southampton,First,man,True,C,Southampton,no,False,False,True,Died,Middle-aged (36-60),2,False,Small (2-4),Very high
+0,3,male,4.0,3,2,27.9,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),6,False,Large (5+),High
+0,1,male,40.0,0,0,27.7208,Cherbourg,First,man,True,,Cherbourg,no,True,True,False,Died,Middle-aged (36-60),1,True,Alone,High
+1,3,male,25.0,1,1,15.2458,Cherbourg,Third,man,True,,Cherbourg,yes,False,True,False,Survived,Adult (19-35),3,False,Small (2-4),Medium
+1,2,female,29.0,0,0,10.5,Southampton,Second,woman,False,F,Southampton,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Medium
+0,3,male,19.0,0,0,8.1583,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+1,3,female,17.0,4,2,7.925,Southampton,Third,woman,False,,Southampton,yes,False,False,False,Survived,Teen (13-18),7,False,Large (5+),Low
+0,3,male,26.0,2,0,8.6625,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),3,False,Small (2-4),Medium
+0,2,male,32.0,0,0,10.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,female,16.0,5,2,46.9,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Teen (13-18),8,False,Large (5+),Very high
+0,2,male,21.0,0,0,73.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Very high
+0,3,male,26.0,1,0,14.4542,Cherbourg,Third,man,True,,Cherbourg,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),Medium
+1,3,male,32.0,0,0,56.4958,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Very high
+0,3,male,25.0,0,0,7.65,Southampton,Third,man,True,F,Southampton,no,True,False,True,Died,Adult (19-35),1,True,Alone,Low
+1,2,male,0.83,0,2,29.0,Southampton,Second,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),3,False,Small (2-4),High
+1,3,female,30.0,0,0,12.475,Southampton,Third,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Medium
+0,3,male,22.0,0,0,9.0,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+1,3,male,29.0,0,0,9.5,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Medium
+1,3,female,22.0,0,0,7.7875,Queenstown,Third,woman,False,,Queenstown,yes,True,True,False,Survived,Adult (19-35),1,True,Alone,Low
+0,1,male,28.0,0,0,47.1,Southampton,First,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Very high
+1,2,female,17.0,0,0,10.5,Southampton,Second,woman,False,,Southampton,yes,True,False,False,Survived,Teen (13-18),1,True,Alone,Medium
+1,3,female,33.0,3,0,15.85,Southampton,Third,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),4,False,Small (2-4),Medium
+0,3,male,16.0,1,3,34.375,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Teen (13-18),5,False,Large (5+),Very high
+1,1,female,23.0,3,2,263.0,Southampton,First,woman,False,C,Southampton,yes,False,False,True,Survived,Adult (19-35),6,False,Large (5+),Very high
+0,3,male,24.0,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,29.0,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,20.0,0,0,7.8542,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,1,male,46.0,1,0,61.175,Southampton,First,man,True,E,Southampton,no,False,False,True,Died,Middle-aged (36-60),2,False,Small (2-4),Very high
+0,3,male,26.0,1,2,20.575,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),4,False,Small (2-4),High
+0,3,male,59.0,0,0,7.25,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+0,1,male,71.0,0,0,34.6542,Cherbourg,First,man,True,A,Cherbourg,no,True,False,True,Died,Senior (60+),1,True,Alone,Very high
+1,1,male,23.0,0,1,63.3583,Cherbourg,First,man,True,D,Cherbourg,yes,False,False,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+1,2,female,34.0,0,1,23.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),2,False,Small (2-4),High
+0,2,male,34.0,1,0,26.0,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),High
+0,3,female,28.0,0,0,7.8958,Southampton,Third,woman,False,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,1,male,21.0,0,1,77.2875,Southampton,First,man,True,D,Southampton,no,False,False,True,Died,Adult (19-35),2,False,Small (2-4),Very high
+0,3,male,33.0,0,0,8.6542,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,male,37.0,2,0,7.925,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Middle-aged (36-60),3,False,Small (2-4),Low
+0,3,male,28.0,0,0,7.8958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,3,female,21.0,0,0,7.65,Southampton,Third,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+1,3,male,25.0,0,0,7.775,Southampton,Third,man,True,,Southampton,yes,True,True,False,Survived,Adult (19-35),1,True,Alone,Low
+0,3,male,38.0,0,0,7.8958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+1,3,female,22.0,1,0,24.15,Queenstown,Third,woman,False,,Queenstown,yes,False,True,False,Survived,Adult (19-35),2,False,Small (2-4),High
+0,1,male,47.0,0,0,52.0,Southampton,First,man,True,C,Southampton,no,True,False,True,Died,Middle-aged (36-60),1,True,Alone,Very high
+0,3,female,14.5,1,0,14.4542,Cherbourg,Third,child,False,,Cherbourg,no,False,False,False,Died,Teen (13-18),2,False,Small (2-4),Medium
+0,3,male,22.0,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,female,20.0,1,0,9.825,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),Medium
+0,3,female,17.0,0,0,14.4583,Cherbourg,Third,woman,False,,Cherbourg,no,True,False,False,Died,Teen (13-18),1,True,Alone,Medium
+0,3,male,21.0,0,0,7.925,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,70.5,0,0,7.75,Queenstown,Third,man,True,,Queenstown,no,True,False,False,Died,Senior (60+),1,True,Alone,Low
+0,2,male,29.0,1,0,21.0,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),High
+0,1,male,24.0,0,1,247.5208,Cherbourg,First,man,True,B,Cherbourg,no,False,False,True,Died,Adult (19-35),2,False,Small (2-4),Very high
+0,3,female,2.0,4,2,31.275,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),7,False,Large (5+),High
+0,2,male,21.0,2,0,73.5,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),3,False,Small (2-4),Very high
+0,2,male,32.5,1,0,30.0708,Cherbourg,Second,man,True,,Cherbourg,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),High
+1,2,female,32.5,0,0,13.0,Southampton,Second,woman,False,E,Southampton,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Medium
+0,1,male,54.0,0,1,77.2875,Southampton,First,man,True,D,Southampton,no,False,False,True,Died,Middle-aged (36-60),2,False,Small (2-4),Very high
+1,3,male,12.0,1,0,11.2417,Cherbourg,Third,child,False,,Cherbourg,yes,False,False,False,Survived,Child (0-12),2,False,Small (2-4),Medium
+0,3,male,25.0,0,0,7.75,Queenstown,Third,man,True,,Queenstown,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+1,3,male,24.0,0,0,7.1417,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+1,3,female,22.0,1,1,22.3583,Cherbourg,Third,woman,False,F,Cherbourg,yes,False,True,True,Survived,Adult (19-35),3,False,Small (2-4),High
+0,3,male,45.0,0,0,6.975,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+0,3,male,33.0,0,0,7.8958,Cherbourg,Third,man,True,,Cherbourg,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,20.0,0,0,7.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,female,47.0,1,0,14.5,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Middle-aged (36-60),2,False,Small (2-4),Medium
+0,2,male,25.0,0,0,13.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,2,male,23.0,0,0,15.0458,Cherbourg,Second,man,True,,Cherbourg,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+1,1,female,19.0,0,2,26.2833,Southampton,First,woman,False,D,Southampton,yes,False,False,True,Survived,Adult (19-35),3,False,Small (2-4),High
+0,1,male,37.0,1,0,53.1,Southampton,First,man,True,C,Southampton,no,False,False,True,Died,Middle-aged (36-60),2,False,Small (2-4),Very high
+0,3,male,16.0,0,0,9.2167,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Teen (13-18),1,True,Alone,Medium
+0,1,male,24.0,0,0,79.2,Cherbourg,First,man,True,B,Cherbourg,no,True,False,True,Died,Adult (19-35),1,True,Alone,Very high
+0,3,female,22.0,0,2,15.2458,Cherbourg,Third,woman,False,,Cherbourg,no,False,True,False,Died,Adult (19-35),3,False,Small (2-4),Medium
+1,3,female,22.0,0,0,7.75,Southampton,Third,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+1,3,female,24.0,1,0,15.85,Southampton,Third,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),2,False,Small (2-4),Medium
+0,3,male,19.0,0,0,6.75,Queenstown,Third,man,True,,Queenstown,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,2,male,18.0,0,0,11.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Teen (13-18),1,True,Alone,Medium
+0,2,male,19.0,1,1,36.75,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),3,False,Small (2-4),Very high
+1,3,male,27.0,0,0,7.7958,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+0,3,female,9.0,2,2,34.375,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),5,False,Large (5+),Very high
+0,2,male,36.5,0,2,26.0,Southampton,Second,man,True,F,Southampton,no,False,False,True,Died,Middle-aged (36-60),3,False,Small (2-4),High
+0,2,male,42.0,0,0,13.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Medium
+0,2,male,51.0,0,0,12.525,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Medium
+1,1,female,22.0,1,0,66.6,Southampton,First,woman,False,C,Southampton,yes,False,False,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+0,3,male,55.5,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+0,3,male,40.5,0,2,14.5,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Middle-aged (36-60),3,False,Small (2-4),Medium
+0,3,male,25.0,0,0,7.3125,Southampton,Third,man,True,,Southampton,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+0,1,male,51.0,0,1,61.3792,Cherbourg,First,man,True,,Cherbourg,no,False,False,False,Died,Middle-aged (36-60),2,False,Small (2-4),Very high
+1,3,female,16.0,0,0,7.7333,Queenstown,Third,woman,False,,Queenstown,yes,True,False,False,Survived,Teen (13-18),1,True,Alone,Low
+0,3,male,30.0,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,25.0,0,0,8.6625,Southampton,Third,man,True,,Southampton,no,True,True,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,male,25.0,8,2,69.55,Southampton,Third,man,True,,Southampton,no,False,True,False,Died,Adult (19-35),11,False,Large (5+),Very high
+0,3,male,44.0,0,1,16.1,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Middle-aged (36-60),2,False,Small (2-4),High
+1,2,female,40.0,0,0,15.75,Southampton,Second,woman,False,,Southampton,yes,True,False,False,Survived,Middle-aged (36-60),1,True,Alone,Medium
+0,3,male,26.0,0,0,7.775,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,17.0,0,0,8.6625,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Teen (13-18),1,True,Alone,Medium
+0,3,male,1.0,4,1,39.6875,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),6,False,Large (5+),Very high
+1,3,male,9.0,0,2,20.525,Southampton,Third,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),3,False,Small (2-4),High
+1,1,female,35.0,0,1,55.0,Southampton,First,woman,False,E,Southampton,yes,False,True,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+0,3,female,45.0,1,4,27.9,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Middle-aged (36-60),6,False,Large (5+),High
+0,1,male,40.0,0,0,25.925,Southampton,First,man,True,,Southampton,no,True,True,False,Died,Middle-aged (36-60),1,True,Alone,High
+0,3,male,28.0,0,0,56.4958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Very high
+0,1,male,61.0,0,0,33.5,Southampton,First,man,True,B,Southampton,no,True,False,True,Died,Senior (60+),1,True,Alone,High
+0,3,male,4.0,4,1,29.125,Queenstown,Third,child,False,,Queenstown,no,False,False,False,Died,Child (0-12),6,False,Large (5+),High
+1,3,female,1.0,1,1,11.1333,Southampton,Third,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),3,False,Small (2-4),Medium
+0,1,male,56.0,0,0,30.6958,Cherbourg,First,man,True,A,Cherbourg,no,True,False,True,Died,Middle-aged (36-60),1,True,Alone,High
+0,3,male,18.0,1,1,7.8542,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Teen (13-18),3,False,Small (2-4),Low
+0,3,male,25.0,3,1,25.4667,Southampton,Third,man,True,,Southampton,no,False,True,False,Died,Adult (19-35),5,False,Large (5+),High
+0,1,female,50.0,0,0,28.7125,Cherbourg,First,woman,False,C,Cherbourg,no,True,False,True,Died,Middle-aged (36-60),1,True,Alone,High
+0,2,male,30.0,0,0,13.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,male,36.0,0,0,0.0,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+0,3,female,22.0,8,2,69.55,Southampton,Third,woman,False,,Southampton,no,False,True,False,Died,Adult (19-35),11,False,Large (5+),Very high
+0,2,male,30.5,0,0,15.05,Cherbourg,Second,man,True,,Cherbourg,no,True,True,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,male,9.0,4,2,31.3875,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),7,False,Large (5+),High
+1,2,male,1.0,2,1,39.0,Southampton,Second,child,False,F,Southampton,yes,False,False,True,Survived,Child (0-12),4,False,Small (2-4),Very high
+1,3,female,4.0,0,2,22.025,Southampton,Third,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),3,False,Small (2-4),High
+0,1,male,40.0,0,0,50.0,Southampton,First,man,True,A,Southampton,no,True,True,True,Died,Middle-aged (36-60),1,True,Alone,Very high
+1,3,female,22.0,1,0,15.5,Queenstown,Third,woman,False,,Queenstown,yes,False,True,False,Survived,Adult (19-35),2,False,Small (2-4),Medium
+1,1,male,45.0,0,0,26.55,Southampton,First,man,True,,Southampton,yes,True,False,False,Survived,Middle-aged (36-60),1,True,Alone,High
+0,3,male,40.0,1,1,15.5,Queenstown,Third,man,True,,Queenstown,no,False,False,False,Died,Middle-aged (36-60),3,False,Small (2-4),Medium
+0,3,male,36.0,0,0,7.8958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+1,2,female,32.0,0,0,13.0,Southampton,Second,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Medium
+0,2,male,19.0,0,0,13.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+1,3,female,19.0,1,0,7.8542,Southampton,Third,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),2,False,Small (2-4),Low
+1,2,male,3.0,1,1,26.0,Southampton,Second,child,False,F,Southampton,yes,False,False,True,Survived,Child (0-12),3,False,Small (2-4),High
+1,1,female,44.0,0,0,27.7208,Cherbourg,First,woman,False,B,Cherbourg,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,High
+1,1,female,58.0,0,0,146.5208,Cherbourg,First,woman,False,B,Cherbourg,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,Very high
+0,3,male,42.0,0,1,8.4042,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Middle-aged (36-60),2,False,Small (2-4),Medium
+0,2,female,24.0,0,0,13.0,Southampton,Second,woman,False,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,male,28.0,0,0,9.5,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,male,34.0,0,0,6.4958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,45.5,0,0,7.225,Cherbourg,Third,man,True,,Cherbourg,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+1,3,male,18.0,0,0,8.05,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Teen (13-18),1,True,Alone,Low
+0,3,female,2.0,0,1,10.4625,Southampton,Third,child,False,G,Southampton,no,False,False,True,Died,Child (0-12),2,False,Small (2-4),Medium
+0,3,male,32.0,1,0,15.85,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),Medium
+1,3,male,26.0,0,0,18.7875,Cherbourg,Third,man,True,,Cherbourg,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,High
+1,3,female,16.0,0,0,7.75,Queenstown,Third,woman,False,,Queenstown,yes,True,False,False,Survived,Teen (13-18),1,True,Alone,Low
+1,1,male,40.0,0,0,31.0,Cherbourg,First,man,True,A,Cherbourg,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,High
+0,3,male,24.0,0,0,7.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,2,female,35.0,0,0,21.0,Southampton,Second,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,High
+0,3,male,22.0,0,0,7.25,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,25.0,1,0,7.75,Queenstown,Third,man,True,,Queenstown,no,False,True,False,Died,Adult (19-35),2,False,Small (2-4),Low
+1,1,female,31.0,1,0,113.275,Cherbourg,First,woman,False,D,Cherbourg,yes,False,False,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+1,3,female,27.0,0,0,7.925,Southampton,Third,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+0,2,male,42.0,1,0,27.0,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Middle-aged (36-60),2,False,Small (2-4),High
+1,1,female,32.0,0,0,76.2917,Cherbourg,First,woman,False,D,Cherbourg,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Very high
+0,2,male,30.0,0,0,10.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+1,3,male,16.0,0,0,8.05,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Teen (13-18),1,True,Alone,Low
+0,2,male,27.0,0,0,13.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,male,51.0,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+1,1,male,38.0,1,0,90.0,Southampton,First,man,True,C,Southampton,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+0,3,male,22.0,0,0,9.35,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+1,2,male,19.0,0,0,10.5,Southampton,Second,man,True,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Medium
+0,3,male,20.5,0,0,7.25,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,2,male,18.0,0,0,13.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Teen (13-18),1,True,Alone,Medium
+0,3,female,22.0,3,1,25.4667,Southampton,Third,woman,False,,Southampton,no,False,True,False,Died,Adult (19-35),5,False,Large (5+),High
+1,1,female,35.0,1,0,83.475,Southampton,First,woman,False,C,Southampton,yes,False,False,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+0,3,male,29.0,0,0,7.775,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,2,male,59.0,0,0,13.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Medium
+1,3,female,5.0,4,2,31.3875,Southampton,Third,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),7,False,Large (5+),High
+0,2,male,24.0,0,0,10.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,female,22.0,0,0,7.55,Southampton,Third,woman,False,,Southampton,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+0,2,male,44.0,1,0,26.0,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Middle-aged (36-60),2,False,Small (2-4),High
+1,2,female,8.0,0,2,26.25,Southampton,Second,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),3,False,Small (2-4),High
+0,2,male,19.0,0,0,10.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,2,male,33.0,0,0,12.275,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,female,22.0,1,0,14.4542,Cherbourg,Third,woman,False,,Cherbourg,no,False,True,False,Died,Adult (19-35),2,False,Small (2-4),Medium
+0,2,male,29.0,0,0,10.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,male,22.0,0,0,7.125,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,30.0,0,0,7.225,Cherbourg,Third,man,True,,Cherbourg,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,1,male,44.0,2,0,90.0,Queenstown,First,man,True,C,Queenstown,no,False,False,True,Died,Middle-aged (36-60),3,False,Small (2-4),Very high
+0,3,female,25.0,0,0,7.775,Southampton,Third,woman,False,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,2,female,24.0,0,2,14.5,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),3,False,Small (2-4),Medium
+1,1,male,37.0,1,1,52.5542,Southampton,First,man,True,D,Southampton,yes,False,False,True,Survived,Middle-aged (36-60),3,False,Small (2-4),Very high
+0,2,male,54.0,1,0,26.0,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Middle-aged (36-60),2,False,Small (2-4),High
+0,3,male,25.0,0,0,7.25,Southampton,Third,man,True,,Southampton,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,female,29.0,1,1,10.4625,Southampton,Third,woman,False,G,Southampton,no,False,False,True,Died,Adult (19-35),3,False,Small (2-4),Medium
+0,1,male,62.0,0,0,26.55,Southampton,First,man,True,C,Southampton,no,True,False,True,Died,Senior (60+),1,True,Alone,High
+0,3,male,30.0,1,0,16.1,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),High
+0,3,female,41.0,0,2,20.2125,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Middle-aged (36-60),3,False,Small (2-4),High
+1,3,female,29.0,0,2,15.2458,Cherbourg,Third,woman,False,,Cherbourg,yes,False,False,False,Survived,Adult (19-35),3,False,Small (2-4),Medium
+1,1,female,35.0,0,0,79.2,Cherbourg,First,woman,False,,Cherbourg,yes,True,True,False,Survived,Adult (19-35),1,True,Alone,Very high
+1,1,female,30.0,0,0,86.5,Southampton,First,woman,False,B,Southampton,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Very high
+1,1,female,35.0,0,0,512.3292,Cherbourg,First,woman,False,,Cherbourg,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Very high
+1,2,female,50.0,0,1,26.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Middle-aged (36-60),2,False,Small (2-4),High
+1,3,male,3.0,4,2,31.3875,Southampton,Third,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),7,False,Large (5+),High
+0,1,male,52.0,1,1,79.65,Southampton,First,man,True,E,Southampton,no,False,False,True,Died,Middle-aged (36-60),3,False,Small (2-4),Very high
+0,1,male,40.0,0,0,0.0,Southampton,First,man,True,B,Southampton,no,True,False,True,Died,Middle-aged (36-60),1,True,Alone,Low
+0,3,female,22.0,0,0,7.75,Queenstown,Third,woman,False,,Queenstown,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+0,2,male,36.0,0,0,10.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Medium
+0,3,male,16.0,4,1,39.6875,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Teen (13-18),6,False,Large (5+),Very high
+1,3,male,25.0,1,0,7.775,Southampton,Third,man,True,,Southampton,yes,False,False,False,Survived,Adult (19-35),2,False,Small (2-4),Low
+1,1,female,58.0,0,1,153.4625,Southampton,First,woman,False,C,Southampton,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+1,1,female,35.0,0,0,135.6333,Southampton,First,woman,False,C,Southampton,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Very high
+0,1,male,40.0,0,0,31.0,Southampton,First,man,True,,Southampton,no,True,True,False,Died,Middle-aged (36-60),1,True,Alone,High
+1,3,male,25.0,0,0,0.0,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+1,2,female,41.0,0,1,19.5,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Middle-aged (36-60),2,False,Small (2-4),High
+0,1,male,37.0,0,1,29.7,Cherbourg,First,man,True,C,Cherbourg,no,False,False,True,Died,Middle-aged (36-60),2,False,Small (2-4),High
+1,1,female,63.0,1,0,77.9583,Southampton,First,woman,False,D,Southampton,yes,False,False,True,Survived,Senior (60+),2,False,Small (2-4),Very high
+0,3,female,45.0,0,0,7.75,Southampton,Third,woman,False,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+0,2,male,30.5,0,0,0.0,Southampton,Second,man,True,,Southampton,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,7.0,4,1,29.125,Queenstown,Third,child,False,,Queenstown,no,False,False,False,Died,Child (0-12),6,False,Large (5+),High
+1,3,female,35.0,1,1,20.25,Southampton,Third,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),3,False,Small (2-4),High
+0,3,male,65.0,0,0,7.75,Queenstown,Third,man,True,,Queenstown,no,True,False,False,Died,Senior (60+),1,True,Alone,Low
+0,3,male,28.0,0,0,7.8542,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,16.0,0,0,9.5,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Teen (13-18),1,True,Alone,Medium
+1,3,male,19.0,0,0,8.05,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+0,1,male,40.0,0,0,26.0,Southampton,First,man,True,A,Southampton,no,True,True,True,Died,Middle-aged (36-60),1,True,Alone,High
+0,3,male,33.0,0,0,8.6625,Cherbourg,Third,man,True,,Cherbourg,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+1,3,male,30.0,0,0,9.5,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Medium
+0,3,male,22.0,0,0,7.8958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,2,male,42.0,0,0,13.0,Southampton,Second,man,True,,Southampton,yes,True,False,False,Survived,Middle-aged (36-60),1,True,Alone,Medium
+1,3,female,22.0,0,0,7.75,Queenstown,Third,woman,False,,Queenstown,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+1,1,female,26.0,0,0,78.85,Southampton,First,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Very high
+1,1,female,19.0,1,0,91.0792,Cherbourg,First,woman,False,B,Cherbourg,yes,False,False,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+0,2,male,36.0,0,0,12.875,Cherbourg,Second,man,True,D,Cherbourg,no,True,False,True,Died,Middle-aged (36-60),1,True,Alone,Medium
+0,3,female,24.0,0,0,8.85,Southampton,Third,woman,False,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,male,24.0,0,0,7.8958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,23.5,0,0,7.2292,Cherbourg,Third,man,True,,Cherbourg,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,1,female,2.0,1,2,151.55,Southampton,First,child,False,C,Southampton,no,False,False,True,Died,Child (0-12),4,False,Small (2-4),Very high
+1,1,male,40.0,0,0,30.5,Southampton,First,man,True,C,Southampton,yes,True,True,True,Survived,Middle-aged (36-60),1,True,Alone,High
+1,1,female,50.0,0,1,247.5208,Cherbourg,First,woman,False,B,Cherbourg,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+1,3,male,25.0,2,0,23.25,Queenstown,Third,man,True,,Queenstown,yes,False,True,False,Survived,Adult (19-35),3,False,Small (2-4),High
+0,3,male,19.0,0,0,0.0,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,2,female,28.0,0,0,12.35,Queenstown,Second,woman,False,E,Queenstown,yes,True,True,True,Survived,Adult (19-35),1,True,Alone,Medium
+1,1,male,0.92,1,2,151.55,Southampton,First,child,False,C,Southampton,yes,False,False,True,Survived,Child (0-12),4,False,Small (2-4),Very high
+1,1,female,35.0,0,0,110.8833,Cherbourg,First,woman,False,,Cherbourg,yes,True,True,False,Survived,Adult (19-35),1,True,Alone,Very high
+1,1,female,17.0,1,0,108.9,Cherbourg,First,woman,False,C,Cherbourg,yes,False,False,True,Survived,Teen (13-18),2,False,Small (2-4),Very high
+0,2,male,30.0,1,0,24.0,Cherbourg,Second,man,True,,Cherbourg,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),High
+1,1,female,30.0,0,0,56.9292,Cherbourg,First,woman,False,E,Cherbourg,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Very high
+1,1,female,24.0,0,0,83.1583,Cherbourg,First,woman,False,C,Cherbourg,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Very high
+1,1,female,18.0,2,2,262.375,Cherbourg,First,woman,False,B,Cherbourg,yes,False,False,True,Survived,Teen (13-18),5,False,Large (5+),Very high
+0,2,female,26.0,1,1,26.0,Southampton,Second,woman,False,,Southampton,no,False,False,False,Died,Adult (19-35),3,False,Small (2-4),High
+0,2,male,43.0,1,1,26.25,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Middle-aged (36-60),3,False,Small (2-4),High
+1,3,female,26.0,0,0,7.8542,Southampton,Third,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+1,2,female,24.0,1,0,26.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),2,False,Small (2-4),High
+0,2,male,54.0,0,0,14.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Medium
+1,1,female,31.0,0,2,164.8667,Southampton,First,woman,False,C,Southampton,yes,False,False,True,Survived,Adult (19-35),3,False,Small (2-4),Very high
+1,1,female,40.0,1,1,134.5,Cherbourg,First,woman,False,E,Cherbourg,yes,False,False,True,Survived,Middle-aged (36-60),3,False,Small (2-4),Very high
+0,3,male,27.0,0,0,7.8958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,2,female,30.0,0,0,12.35,Queenstown,Second,woman,False,,Queenstown,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Medium
+1,2,female,22.0,1,1,29.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),3,False,Small (2-4),High
+1,1,female,36.0,0,0,135.6333,Cherbourg,First,woman,False,C,Cherbourg,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,Very high
+0,3,male,61.0,0,0,6.2375,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Senior (60+),1,True,Alone,Low
+1,2,female,36.0,0,0,13.0,Southampton,Second,woman,False,D,Southampton,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,Medium
+1,3,female,31.0,1,1,20.525,Southampton,Third,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),3,False,Small (2-4),High
+1,1,female,16.0,0,1,57.9792,Cherbourg,First,woman,False,B,Cherbourg,yes,False,False,True,Survived,Teen (13-18),2,False,Small (2-4),Very high
+1,3,female,22.0,2,0,23.25,Queenstown,Third,woman,False,,Queenstown,yes,False,True,False,Survived,Adult (19-35),3,False,Small (2-4),High
+0,1,male,45.5,0,0,28.5,Southampton,First,man,True,C,Southampton,no,True,False,True,Died,Middle-aged (36-60),1,True,Alone,High
+0,1,male,38.0,0,1,153.4625,Southampton,First,man,True,C,Southampton,no,False,False,True,Died,Middle-aged (36-60),2,False,Small (2-4),Very high
+0,3,male,16.0,2,0,18.0,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Teen (13-18),3,False,Small (2-4),High
+1,1,female,35.0,1,0,133.65,Southampton,First,woman,False,,Southampton,yes,False,True,False,Survived,Adult (19-35),2,False,Small (2-4),Very high
+0,1,male,29.0,1,0,66.6,Southampton,First,man,True,C,Southampton,no,False,False,True,Died,Adult (19-35),2,False,Small (2-4),Very high
+1,1,female,41.0,0,0,134.5,Cherbourg,First,woman,False,E,Cherbourg,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,Very high
+1,3,male,45.0,0,0,8.05,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Middle-aged (36-60),1,True,Alone,Low
+0,1,male,45.0,0,0,35.5,Southampton,First,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Very high
+1,2,male,2.0,1,1,26.0,Southampton,Second,child,False,F,Southampton,yes,False,False,True,Survived,Child (0-12),3,False,Small (2-4),High
+1,1,female,24.0,3,2,263.0,Southampton,First,woman,False,C,Southampton,yes,False,False,True,Survived,Adult (19-35),6,False,Large (5+),Very high
+0,2,male,28.0,0,0,13.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,2,male,36.0,0,0,13.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Medium
+1,2,female,24.0,0,0,13.0,Southampton,Second,woman,False,F,Southampton,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Medium
+1,2,female,40.0,0,0,13.0,Southampton,Second,woman,False,,Southampton,yes,True,False,False,Survived,Middle-aged (36-60),1,True,Alone,Medium
+1,3,female,22.0,1,0,16.1,Southampton,Third,woman,False,,Southampton,yes,False,True,False,Survived,Adult (19-35),2,False,Small (2-4),High
+1,3,male,3.0,1,1,15.9,Southampton,Third,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),3,False,Small (2-4),Medium
+0,3,male,42.0,0,0,8.6625,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Medium
+0,3,male,23.0,0,0,9.225,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,1,male,40.0,0,0,35.0,Southampton,First,man,True,C,Southampton,no,True,True,True,Died,Middle-aged (36-60),1,True,Alone,Very high
+0,3,male,15.0,1,1,7.2292,Cherbourg,Third,child,False,,Cherbourg,no,False,False,False,Died,Teen (13-18),3,False,Small (2-4),Low
+0,3,male,25.0,1,0,17.8,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),High
+1,1,female,22.0,0,1,55.0,Southampton,First,woman,False,E,Southampton,yes,False,False,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+0,2,female,38.0,0,0,13.0,Southampton,Second,woman,False,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Medium
+0,3,male,40.0,1,4,27.9,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Middle-aged (36-60),6,False,Large (5+),High
+0,2,male,29.0,1,0,27.7208,Cherbourg,Second,man,True,,Cherbourg,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),High
+0,3,female,45.0,0,1,14.4542,Cherbourg,Third,woman,False,,Cherbourg,no,False,False,False,Died,Middle-aged (36-60),2,False,Small (2-4),Medium
+0,3,male,35.0,0,0,7.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,30.0,0,0,7.25,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,1,female,60.0,1,0,75.25,Cherbourg,First,woman,False,D,Cherbourg,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+1,3,female,22.0,0,0,7.2292,Cherbourg,Third,woman,False,,Cherbourg,yes,True,True,False,Survived,Adult (19-35),1,True,Alone,Low
+1,1,female,24.0,0,0,69.3,Cherbourg,First,woman,False,B,Cherbourg,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Very high
+1,1,male,25.0,1,0,55.4417,Cherbourg,First,man,True,E,Cherbourg,yes,False,False,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+0,3,male,18.0,1,0,6.4958,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Teen (13-18),2,False,Small (2-4),Low
+0,3,male,19.0,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,1,male,22.0,0,0,135.6333,Cherbourg,First,man,True,,Cherbourg,no,True,False,False,Died,Adult (19-35),1,True,Alone,Very high
+0,3,female,3.0,3,1,21.075,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),5,False,Large (5+),High
+1,1,female,35.0,1,0,82.1708,Cherbourg,First,woman,False,,Cherbourg,yes,False,True,False,Survived,Adult (19-35),2,False,Small (2-4),Very high
+1,3,female,22.0,0,0,7.25,Southampton,Third,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+0,1,male,27.0,0,2,211.5,Cherbourg,First,man,True,C,Cherbourg,no,False,False,True,Died,Adult (19-35),3,False,Small (2-4),Very high
+0,3,male,20.0,0,0,4.0125,Cherbourg,Third,man,True,,Cherbourg,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,19.0,0,0,7.775,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,1,female,42.0,0,0,227.525,Cherbourg,First,woman,False,,Cherbourg,yes,True,False,False,Survived,Middle-aged (36-60),1,True,Alone,Very high
+1,3,female,1.0,0,2,15.7417,Cherbourg,Third,child,False,,Cherbourg,yes,False,False,False,Survived,Child (0-12),3,False,Small (2-4),Medium
+0,3,male,32.0,0,0,7.925,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,1,female,35.0,1,0,52.0,Southampton,First,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),2,False,Small (2-4),Very high
+0,2,male,18.0,0,0,73.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Teen (13-18),1,True,Alone,Very high
+0,3,male,1.0,5,2,46.9,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),8,False,Large (5+),Very high
+1,2,female,36.0,0,0,13.0,Southampton,Second,woman,False,,Southampton,yes,True,False,False,Survived,Middle-aged (36-60),1,True,Alone,Medium
+0,3,male,25.0,0,0,7.7292,Queenstown,Third,man,True,,Queenstown,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+1,2,female,17.0,0,0,12.0,Cherbourg,Second,woman,False,,Cherbourg,yes,True,False,False,Survived,Teen (13-18),1,True,Alone,Medium
+1,1,male,36.0,1,2,120.0,Southampton,First,man,True,B,Southampton,yes,False,False,True,Survived,Middle-aged (36-60),4,False,Small (2-4),Very high
+1,3,male,21.0,0,0,7.7958,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+0,3,male,28.0,2,0,7.925,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),3,False,Small (2-4),Low
+1,1,female,23.0,1,0,113.275,Cherbourg,First,woman,False,D,Cherbourg,yes,False,False,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+1,3,female,24.0,0,2,16.7,Southampton,Third,woman,False,G,Southampton,yes,False,False,True,Survived,Adult (19-35),3,False,Small (2-4),High
+0,3,male,22.0,0,0,7.7958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,female,31.0,0,0,7.8542,Southampton,Third,woman,False,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,2,male,46.0,0,0,26.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,High
+0,2,male,23.0,0,0,10.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+1,2,female,28.0,0,0,12.65,Southampton,Second,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Medium
+1,3,male,39.0,0,0,7.925,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Middle-aged (36-60),1,True,Alone,Low
+0,3,male,26.0,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,female,21.0,1,0,9.825,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),Medium
+0,3,male,28.0,1,0,15.85,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),Medium
+0,3,female,20.0,0,0,8.6625,Southampton,Third,woman,False,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,2,male,34.0,1,0,21.0,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),High
+0,3,male,51.0,0,0,7.75,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+1,2,male,3.0,1,1,18.75,Southampton,Second,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),3,False,Small (2-4),High
+0,3,male,21.0,0,0,7.775,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,25.0,0,0,6.8583,Queenstown,Third,man,True,,Queenstown,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+1,1,female,33.0,1,0,90.0,Queenstown,First,woman,False,C,Queenstown,yes,False,False,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+1,3,male,44.0,0,0,7.925,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Middle-aged (36-60),1,True,Alone,Low
+0,3,female,22.0,0,0,8.05,Southampton,Third,woman,False,,Southampton,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+1,2,female,34.0,1,1,32.5,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),3,False,Small (2-4),High
+1,2,female,18.0,0,2,13.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Teen (13-18),3,False,Small (2-4),Medium
+0,3,female,10.0,0,2,24.15,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),3,False,Small (2-4),High
+0,3,male,21.0,0,0,7.7333,Queenstown,Third,man,True,,Queenstown,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,29.0,0,0,7.875,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,female,28.0,1,1,14.4,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Adult (19-35),3,False,Small (2-4),Medium
+0,3,male,18.0,1,1,20.2125,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Teen (13-18),3,False,Small (2-4),High
+1,2,female,28.0,1,0,26.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),2,False,Small (2-4),High
+1,2,female,19.0,0,0,26.0,Southampton,Second,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,High
+1,3,male,32.0,0,0,8.05,Southampton,Third,man,True,E,Southampton,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Low
+1,1,male,28.0,0,0,26.55,Southampton,First,man,True,C,Southampton,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,High
+1,2,female,42.0,1,0,26.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Middle-aged (36-60),2,False,Small (2-4),High
+0,3,male,17.0,0,0,7.125,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Teen (13-18),1,True,Alone,Low
+0,1,male,50.0,1,0,55.9,Southampton,First,man,True,E,Southampton,no,False,False,True,Died,Middle-aged (36-60),2,False,Small (2-4),Very high
+1,1,female,14.0,1,2,120.0,Southampton,First,child,False,B,Southampton,yes,False,False,True,Survived,Teen (13-18),4,False,Small (2-4),Very high
+0,3,female,21.0,2,2,34.375,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Adult (19-35),5,False,Large (5+),Very high
+1,2,female,24.0,2,3,18.75,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),6,False,Large (5+),High
+0,1,male,64.0,1,4,263.0,Southampton,First,man,True,C,Southampton,no,False,False,True,Died,Senior (60+),6,False,Large (5+),Very high
+0,2,male,31.0,0,0,10.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+1,2,female,45.0,1,1,26.25,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Middle-aged (36-60),3,False,Small (2-4),High
+0,3,male,20.0,0,0,9.5,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,male,25.0,1,0,7.775,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),Low
+1,2,female,28.0,0,0,13.0,Southampton,Second,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Medium
+1,3,male,25.0,0,0,8.1125,Southampton,Third,man,True,,Southampton,yes,True,True,False,Survived,Adult (19-35),1,True,Alone,Medium
+1,1,male,4.0,0,2,81.8583,Southampton,First,child,False,A,Southampton,yes,False,False,True,Survived,Child (0-12),3,False,Small (2-4),Very high
+1,2,female,13.0,0,1,19.5,Southampton,Second,child,False,,Southampton,yes,False,False,False,Survived,Teen (13-18),2,False,Small (2-4),High
+1,1,male,34.0,0,0,26.55,Southampton,First,man,True,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,High
+1,3,female,5.0,2,1,19.2583,Cherbourg,Third,child,False,,Cherbourg,yes,False,False,False,Survived,Child (0-12),4,False,Small (2-4),High
+1,1,male,52.0,0,0,30.5,Southampton,First,man,True,C,Southampton,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,High
+0,2,male,36.0,1,2,27.75,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Middle-aged (36-60),4,False,Small (2-4),High
+0,3,male,25.0,1,0,19.9667,Southampton,Third,man,True,,Southampton,no,False,True,False,Died,Adult (19-35),2,False,Small (2-4),High
+0,1,male,30.0,0,0,27.75,Cherbourg,First,man,True,C,Cherbourg,no,True,False,True,Died,Adult (19-35),1,True,Alone,High
+1,1,male,49.0,1,0,89.1042,Cherbourg,First,man,True,C,Cherbourg,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+1,3,male,29.0,0,0,7.8958,Cherbourg,Third,man,True,,Cherbourg,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+0,1,male,65.0,0,0,26.55,Southampton,First,man,True,E,Southampton,no,True,False,True,Died,Senior (60+),1,True,Alone,High
+1,1,female,35.0,1,0,51.8625,Southampton,First,woman,False,D,Southampton,yes,False,True,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+1,2,female,50.0,0,0,10.5,Southampton,Second,woman,False,,Southampton,yes,True,False,False,Survived,Middle-aged (36-60),1,True,Alone,Medium
+1,1,male,48.0,0,0,26.55,Southampton,First,man,True,E,Southampton,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,High
+0,3,male,34.0,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,1,male,47.0,0,0,38.5,Southampton,First,man,True,E,Southampton,no,True,False,True,Died,Middle-aged (36-60),1,True,Alone,Very high
+0,2,male,48.0,0,0,13.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Medium
+0,3,male,38.0,0,0,7.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+0,1,male,56.0,0,0,26.55,Southampton,First,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,High
+0,3,male,25.0,0,0,7.725,Queenstown,Third,man,True,,Queenstown,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+1,3,female,0.75,2,1,19.2583,Cherbourg,Third,child,False,,Cherbourg,yes,False,False,False,Survived,Child (0-12),4,False,Small (2-4),High
+0,3,male,38.0,0,0,8.6625,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Medium
+1,2,female,33.0,1,2,27.75,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),4,False,Small (2-4),High
+1,2,female,23.0,0,0,13.7917,Cherbourg,Second,woman,False,D,Cherbourg,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Medium
+0,3,female,22.0,0,0,9.8375,Southampton,Third,woman,False,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,1,male,40.0,0,0,52.0,Southampton,First,man,True,A,Southampton,no,True,True,True,Died,Middle-aged (36-60),1,True,Alone,Very high
+0,3,male,29.0,1,0,7.0458,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),Low
+0,3,male,22.0,0,0,7.5208,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,3,female,2.0,0,1,12.2875,Southampton,Third,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),2,False,Small (2-4),Medium
+0,3,male,9.0,5,2,46.9,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),8,False,Large (5+),Very high
+0,3,male,50.0,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+1,3,female,63.0,0,0,9.5875,Southampton,Third,woman,False,,Southampton,yes,True,False,False,Survived,Senior (60+),1,True,Alone,Medium
+1,1,male,25.0,1,0,91.0792,Cherbourg,First,man,True,B,Cherbourg,yes,False,False,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+1,1,female,35.0,1,0,90.0,Southampton,First,woman,False,C,Southampton,yes,False,False,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+0,1,male,58.0,0,0,29.7,Cherbourg,First,man,True,B,Cherbourg,no,True,False,True,Died,Middle-aged (36-60),1,True,Alone,High
+1,3,male,9.0,1,1,15.9,Southampton,Third,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),3,False,Small (2-4),Medium
+0,3,male,21.0,0,0,7.25,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,1,male,55.0,0,0,30.5,Southampton,First,man,True,C,Southampton,no,True,False,True,Died,Middle-aged (36-60),1,True,Alone,High
+0,1,male,71.0,0,0,49.5042,Cherbourg,First,man,True,,Cherbourg,no,True,False,False,Died,Senior (60+),1,True,Alone,Very high
+0,3,male,25.0,0,0,14.4583,Cherbourg,Third,man,True,,Cherbourg,no,True,True,False,Died,Adult (19-35),1,True,Alone,Medium
+1,1,female,54.0,1,0,78.2667,Cherbourg,First,woman,False,D,Cherbourg,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+0,3,male,25.0,0,0,15.1,Southampton,Third,man,True,,Southampton,no,True,True,False,Died,Adult (19-35),1,True,Alone,Medium
+0,1,female,25.0,1,2,151.55,Southampton,First,woman,False,C,Southampton,no,False,False,True,Died,Adult (19-35),4,False,Small (2-4),Very high
+0,3,male,24.0,0,0,7.7958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,female,21.0,0,0,7.75,Queenstown,Third,woman,False,,Queenstown,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,female,22.0,0,0,7.6292,Queenstown,Third,woman,False,,Queenstown,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,female,37.0,0,0,9.5875,Southampton,Third,woman,False,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Medium
+1,1,female,16.0,0,0,86.5,Southampton,First,woman,False,B,Southampton,yes,True,False,True,Survived,Teen (13-18),1,True,Alone,Very high
+0,1,male,18.0,1,0,108.9,Cherbourg,First,man,True,C,Cherbourg,no,False,False,True,Died,Teen (13-18),2,False,Small (2-4),Very high
+1,2,female,33.0,0,2,26.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),3,False,Small (2-4),High
+1,1,male,40.0,0,0,26.55,Southampton,First,man,True,,Southampton,yes,True,True,False,Survived,Middle-aged (36-60),1,True,Alone,High
+0,3,male,28.0,0,0,22.525,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,High
+1,3,male,26.0,0,0,56.4958,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Very high
+1,3,male,29.0,0,0,7.75,Queenstown,Third,man,True,,Queenstown,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+1,1,male,36.0,0,0,26.2875,Southampton,First,man,True,E,Southampton,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,High
+1,1,female,54.0,1,0,59.4,Cherbourg,First,woman,False,,Cherbourg,yes,False,False,False,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+0,3,male,24.0,0,0,7.4958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,1,male,47.0,0,0,34.0208,Southampton,First,man,True,D,Southampton,no,True,False,True,Died,Middle-aged (36-60),1,True,Alone,High
+1,2,female,34.0,0,0,10.5,Southampton,Second,woman,False,F,Southampton,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Medium
+0,3,male,25.0,0,0,24.15,Queenstown,Third,man,True,,Queenstown,no,True,True,False,Died,Adult (19-35),1,True,Alone,High
+1,2,female,36.0,1,0,26.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Middle-aged (36-60),2,False,Small (2-4),High
+0,3,male,32.0,0,0,7.8958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,1,female,30.0,0,0,93.5,Southampton,First,woman,False,B,Southampton,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Very high
+1,1,female,44.0,0,1,57.9792,Cherbourg,First,woman,False,B,Cherbourg,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+0,3,male,25.0,0,0,7.2292,Cherbourg,Third,man,True,,Cherbourg,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,40.5,0,0,7.75,Queenstown,Third,man,True,,Queenstown,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+0,1,male,40.0,0,0,221.7792,Southampton,First,man,True,C,Southampton,no,True,True,True,Died,Middle-aged (36-60),1,True,Alone,Very high
+0,3,male,39.0,0,0,7.925,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+0,2,male,23.0,2,1,11.5,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),4,False,Small (2-4),Medium
+1,2,female,2.0,1,1,26.0,Southampton,Second,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),3,False,Small (2-4),High
+0,3,male,17.0,1,1,7.2292,Cherbourg,Third,man,True,,Cherbourg,no,False,False,False,Died,Teen (13-18),3,False,Small (2-4),Low
+1,3,female,22.0,0,2,22.3583,Cherbourg,Third,woman,False,,Cherbourg,yes,False,True,False,Survived,Adult (19-35),3,False,Small (2-4),High
+0,3,female,30.0,0,0,8.6625,Southampton,Third,woman,False,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+1,2,female,7.0,0,2,26.25,Southampton,Second,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),3,False,Small (2-4),High
+0,1,male,45.0,0,0,26.55,Southampton,First,man,True,B,Southampton,no,True,False,True,Died,Middle-aged (36-60),1,True,Alone,High
+1,1,female,30.0,0,0,106.425,Cherbourg,First,woman,False,,Cherbourg,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Very high
+0,3,male,25.0,0,0,14.5,Southampton,Third,man,True,,Southampton,no,True,True,False,Died,Adult (19-35),1,True,Alone,Medium
+1,1,female,22.0,0,2,49.5,Cherbourg,First,woman,False,B,Cherbourg,yes,False,False,True,Survived,Adult (19-35),3,False,Small (2-4),Very high
+1,1,female,36.0,0,2,71.0,Southampton,First,woman,False,B,Southampton,yes,False,False,True,Survived,Middle-aged (36-60),3,False,Small (2-4),Very high
+0,3,female,9.0,4,2,31.275,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),7,False,Large (5+),High
+0,3,female,11.0,4,2,31.275,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),7,False,Large (5+),High
+1,2,male,32.0,1,0,26.0,Southampton,Second,man,True,,Southampton,yes,False,False,False,Survived,Adult (19-35),2,False,Small (2-4),High
+0,1,male,50.0,1,0,106.425,Cherbourg,First,man,True,C,Cherbourg,no,False,False,True,Died,Middle-aged (36-60),2,False,Small (2-4),Very high
+0,1,male,64.0,0,0,26.0,Southampton,First,man,True,,Southampton,no,True,False,False,Died,Senior (60+),1,True,Alone,High
+1,2,female,19.0,1,0,26.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),2,False,Small (2-4),High
+1,2,male,30.5,0,0,13.8625,Cherbourg,Second,man,True,,Cherbourg,yes,True,True,False,Survived,Adult (19-35),1,True,Alone,Medium
+0,3,male,33.0,1,1,20.525,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),3,False,Small (2-4),High
+1,2,male,8.0,1,1,36.75,Southampton,Second,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),3,False,Small (2-4),Very high
+1,1,male,17.0,0,2,110.8833,Cherbourg,First,man,True,C,Cherbourg,yes,False,False,True,Survived,Teen (13-18),3,False,Small (2-4),Very high
+0,2,male,27.0,0,0,26.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,High
+0,3,male,25.0,0,0,7.8292,Queenstown,Third,man,True,,Queenstown,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+1,3,male,22.0,0,0,7.225,Cherbourg,Third,man,True,,Cherbourg,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+1,3,female,22.0,0,0,7.775,Southampton,Third,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+0,1,male,62.0,0,0,26.55,Southampton,First,man,True,,Southampton,no,True,False,False,Died,Senior (60+),1,True,Alone,High
+1,1,female,48.0,1,0,39.6,Cherbourg,First,woman,False,A,Cherbourg,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+0,1,male,40.0,0,0,227.525,Cherbourg,First,man,True,,Cherbourg,no,True,True,False,Died,Middle-aged (36-60),1,True,Alone,Very high
+1,1,female,39.0,1,1,79.65,Southampton,First,woman,False,E,Southampton,yes,False,False,True,Survived,Middle-aged (36-60),3,False,Small (2-4),Very high
+1,3,female,36.0,1,0,17.4,Southampton,Third,woman,False,,Southampton,yes,False,False,False,Survived,Middle-aged (36-60),2,False,Small (2-4),High
+0,3,male,40.0,0,0,7.8958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+0,2,male,28.0,0,0,13.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,male,24.0,2,0,24.15,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),3,False,Small (2-4),High
+0,3,male,19.0,0,0,7.8958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,female,29.0,0,4,21.075,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Adult (19-35),5,False,Large (5+),High
+1,3,male,32.0,0,0,7.8542,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+1,2,male,62.0,0,0,10.5,Southampton,Second,man,True,,Southampton,yes,True,False,False,Survived,Senior (60+),1,True,Alone,Medium
+1,1,female,53.0,2,0,51.4792,Southampton,First,woman,False,C,Southampton,yes,False,False,True,Survived,Middle-aged (36-60),3,False,Small (2-4),Very high
+1,1,male,36.0,0,0,26.3875,Southampton,First,man,True,E,Southampton,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,High
+0,3,male,16.0,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Teen (13-18),1,True,Alone,Low
+0,3,male,19.0,0,0,14.5,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+1,2,female,34.0,0,0,13.0,Southampton,Second,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Medium
+1,1,female,39.0,1,0,55.9,Southampton,First,woman,False,E,Southampton,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+0,3,female,22.0,1,0,14.4583,Cherbourg,Third,woman,False,,Cherbourg,no,False,True,False,Died,Adult (19-35),2,False,Small (2-4),Medium
+1,3,male,32.0,0,0,7.925,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+1,2,female,25.0,1,1,30.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),3,False,Small (2-4),High
+1,1,female,39.0,1,1,110.8833,Cherbourg,First,woman,False,C,Cherbourg,yes,False,False,True,Survived,Middle-aged (36-60),3,False,Small (2-4),Very high
+0,2,male,54.0,0,0,26.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,High
+0,1,male,36.0,0,0,40.125,Cherbourg,First,man,True,A,Cherbourg,no,True,False,True,Died,Middle-aged (36-60),1,True,Alone,Very high
+0,3,male,25.0,0,0,8.7125,Cherbourg,Third,man,True,,Cherbourg,no,True,True,False,Died,Adult (19-35),1,True,Alone,Medium
+1,1,female,18.0,0,2,79.65,Southampton,First,woman,False,E,Southampton,yes,False,False,True,Survived,Teen (13-18),3,False,Small (2-4),Very high
+0,2,male,47.0,0,0,15.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Medium
+1,1,male,60.0,1,1,79.2,Cherbourg,First,man,True,B,Cherbourg,yes,False,False,True,Survived,Middle-aged (36-60),3,False,Small (2-4),Very high
+0,3,male,35.0,0,0,7.125,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,1,female,52.0,1,0,78.2667,Cherbourg,First,woman,False,D,Cherbourg,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+0,3,male,47.0,0,0,7.25,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+0,3,female,22.0,0,2,7.75,Queenstown,Third,woman,False,,Queenstown,no,False,True,False,Died,Adult (19-35),3,False,Small (2-4),Low
+0,2,male,37.0,1,0,26.0,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Middle-aged (36-60),2,False,Small (2-4),High
+0,3,male,36.0,1,1,24.15,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Middle-aged (36-60),3,False,Small (2-4),High
+1,2,female,28.0,0,0,33.0,Southampton,Second,woman,False,,Southampton,yes,True,True,False,Survived,Adult (19-35),1,True,Alone,High
+0,3,male,49.0,0,0,0.0,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+1,1,male,49.0,1,0,56.9292,Cherbourg,First,man,True,A,Cherbourg,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+1,2,female,24.0,2,1,27.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),4,False,Small (2-4),High
+0,1,male,40.0,0,0,42.4,Southampton,First,man,True,,Southampton,no,True,True,False,Died,Middle-aged (36-60),1,True,Alone,Very high
+0,3,male,44.0,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+1,1,male,35.0,0,0,26.55,Cherbourg,First,man,True,,Cherbourg,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,High
+0,3,male,36.0,1,0,15.55,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Middle-aged (36-60),2,False,Small (2-4),Medium
+0,3,male,30.0,0,0,7.8958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,1,male,27.0,0,0,30.5,Southampton,First,man,True,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,High
+1,2,female,22.0,1,2,41.5792,Cherbourg,Second,woman,False,,Cherbourg,yes,False,False,False,Survived,Adult (19-35),4,False,Small (2-4),Very high
+1,1,female,40.0,0,0,153.4625,Southampton,First,woman,False,C,Southampton,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,Very high
+0,3,female,39.0,1,5,31.275,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Middle-aged (36-60),7,False,Large (5+),High
+0,3,male,25.0,0,0,7.05,Southampton,Third,man,True,,Southampton,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+1,2,female,24.0,1,2,65.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),4,False,Small (2-4),Very high
+0,3,male,34.0,1,1,14.4,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),3,False,Small (2-4),Medium
+0,3,female,26.0,1,0,16.1,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),High
+1,2,female,4.0,2,1,39.0,Southampton,Second,child,False,F,Southampton,yes,False,False,True,Survived,Child (0-12),4,False,Small (2-4),Very high
+0,2,male,26.0,0,0,10.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,male,27.0,1,0,14.4542,Cherbourg,Third,man,True,,Cherbourg,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),Medium
+1,1,male,42.0,1,0,52.5542,Southampton,First,man,True,D,Southampton,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+1,3,male,20.0,1,1,15.7417,Cherbourg,Third,man,True,,Cherbourg,yes,False,False,False,Survived,Adult (19-35),3,False,Small (2-4),Medium
+0,3,male,21.0,0,0,7.8542,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,21.0,0,0,16.1,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,High
+0,1,male,61.0,0,0,32.3208,Southampton,First,man,True,D,Southampton,no,True,False,True,Died,Senior (60+),1,True,Alone,High
+0,2,male,57.0,0,0,12.35,Queenstown,Second,man,True,,Queenstown,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Medium
+1,1,female,21.0,0,0,77.9583,Southampton,First,woman,False,D,Southampton,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Very high
+0,3,male,26.0,0,0,7.8958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,25.0,0,0,7.7333,Queenstown,Third,man,True,,Queenstown,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+1,1,male,80.0,0,0,30.0,Southampton,First,man,True,A,Southampton,yes,True,False,True,Survived,Senior (60+),1,True,Alone,High
+0,3,male,51.0,0,0,7.0542,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+1,1,male,32.0,0,0,30.5,Cherbourg,First,man,True,B,Cherbourg,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,High
+0,1,male,40.0,0,0,0.0,Southampton,First,man,True,,Southampton,no,True,True,False,Died,Middle-aged (36-60),1,True,Alone,Low
+0,3,female,9.0,3,2,27.9,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),6,False,Large (5+),High
+0,2,male,31.0,1,1,26.25,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),3,False,Small (2-4),High
+0,3,female,41.0,0,5,39.6875,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Middle-aged (36-60),6,False,Large (5+),Very high
+0,3,male,25.0,1,0,16.1,Southampton,Third,man,True,,Southampton,no,False,True,False,Died,Adult (19-35),2,False,Small (2-4),High
+0,3,female,2.0,3,2,27.9,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),6,False,Large (5+),High
+1,3,male,25.0,0,0,56.4958,Southampton,Third,man,True,,Southampton,yes,True,True,False,Survived,Adult (19-35),1,True,Alone,Very high
+1,1,male,48.0,1,0,76.7292,Cherbourg,First,man,True,D,Cherbourg,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+1,1,male,56.0,0,0,35.5,Cherbourg,First,man,True,A,Cherbourg,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,Very high
+0,3,male,25.0,0,0,7.55,Southampton,Third,man,True,,Southampton,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+1,3,female,23.0,0,0,7.55,Southampton,Third,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+1,2,female,18.0,0,1,23.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Teen (13-18),2,False,Small (2-4),High
+0,3,male,21.0,0,0,8.4333,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+1,3,female,22.0,0,0,7.8292,Queenstown,Third,woman,False,,Queenstown,yes,True,True,False,Survived,Adult (19-35),1,True,Alone,Low
+0,3,female,18.0,0,0,6.75,Queenstown,Third,woman,False,,Queenstown,no,True,False,False,Died,Teen (13-18),1,True,Alone,Low
+0,2,male,24.0,2,0,73.5,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),3,False,Small (2-4),Very high
+0,3,female,32.0,1,1,15.5,Queenstown,Third,woman,False,,Queenstown,no,False,False,False,Died,Adult (19-35),3,False,Small (2-4),Medium
+0,2,male,23.0,0,0,13.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,1,male,58.0,0,2,113.275,Cherbourg,First,man,True,D,Cherbourg,no,False,False,True,Died,Middle-aged (36-60),3,False,Small (2-4),Very high
+1,1,male,50.0,2,0,133.65,Southampton,First,man,True,,Southampton,yes,False,False,False,Survived,Middle-aged (36-60),3,False,Small (2-4),Very high
+0,3,male,40.0,0,0,7.225,Cherbourg,Third,man,True,,Cherbourg,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+0,1,male,47.0,0,0,25.5875,Southampton,First,man,True,E,Southampton,no,True,False,True,Died,Middle-aged (36-60),1,True,Alone,High
+0,3,male,36.0,0,0,7.4958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+1,3,male,20.0,1,0,7.925,Southampton,Third,man,True,,Southampton,yes,False,False,False,Survived,Adult (19-35),2,False,Small (2-4),Low
+0,2,male,32.0,2,0,73.5,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),3,False,Small (2-4),Very high
+0,3,male,25.0,0,0,7.775,Southampton,Third,man,True,,Southampton,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,43.0,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+1,1,female,35.0,1,0,52.0,Southampton,First,woman,False,C,Southampton,yes,False,True,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+1,2,female,40.0,1,1,39.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Middle-aged (36-60),3,False,Small (2-4),Very high
+0,1,male,31.0,1,0,52.0,Southampton,First,man,True,B,Southampton,no,False,False,True,Died,Adult (19-35),2,False,Small (2-4),Very high
+0,2,male,70.0,0,0,10.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Senior (60+),1,True,Alone,Medium
+1,2,male,31.0,0,0,13.0,Southampton,Second,man,True,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Medium
+0,3,male,18.0,0,0,7.775,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Teen (13-18),1,True,Alone,Low
+0,3,male,24.5,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,3,female,18.0,0,0,9.8417,Southampton,Third,woman,False,,Southampton,yes,True,False,False,Survived,Teen (13-18),1,True,Alone,Medium
+0,3,female,43.0,1,6,46.9,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Middle-aged (36-60),8,False,Large (5+),Very high
+1,1,male,36.0,0,1,512.3292,Cherbourg,First,man,True,B,Cherbourg,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+0,3,female,22.0,0,0,8.1375,Queenstown,Third,woman,False,,Queenstown,no,True,True,False,Died,Adult (19-35),1,True,Alone,Medium
+1,1,male,27.0,0,0,76.7292,Cherbourg,First,man,True,D,Cherbourg,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Very high
+0,3,male,20.0,0,0,9.225,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,male,14.0,5,2,46.9,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Teen (13-18),8,False,Large (5+),Very high
+0,2,male,60.0,1,1,39.0,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Middle-aged (36-60),3,False,Small (2-4),Very high
+0,2,male,25.0,1,2,41.5792,Cherbourg,Second,man,True,,Cherbourg,no,False,False,False,Died,Adult (19-35),4,False,Small (2-4),Very high
+0,3,male,14.0,4,1,39.6875,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Teen (13-18),6,False,Large (5+),Very high
+0,3,male,19.0,0,0,10.1708,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,male,18.0,0,0,7.7958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Teen (13-18),1,True,Alone,Low
+1,1,female,15.0,0,1,211.3375,Southampton,First,child,False,B,Southampton,yes,False,False,True,Survived,Teen (13-18),2,False,Small (2-4),Very high
+1,1,male,31.0,1,0,57.0,Southampton,First,man,True,B,Southampton,yes,False,False,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+1,3,female,4.0,0,1,13.4167,Cherbourg,Third,child,False,,Cherbourg,yes,False,False,False,Survived,Child (0-12),2,False,Small (2-4),Medium
+0,3,male,25.0,0,0,7.225,Cherbourg,Third,man,True,,Cherbourg,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,1,male,60.0,0,0,26.55,Southampton,First,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,High
+0,2,male,52.0,0,0,13.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Medium
+1,3,female,22.0,0,0,7.7333,Queenstown,Third,woman,False,,Queenstown,yes,True,True,False,Survived,Adult (19-35),1,True,Alone,Low
+0,1,male,49.0,1,1,110.8833,Cherbourg,First,man,True,C,Cherbourg,no,False,False,True,Died,Middle-aged (36-60),3,False,Small (2-4),Very high
+0,3,male,42.0,0,0,7.65,Southampton,Third,man,True,F,Southampton,no,True,False,True,Died,Middle-aged (36-60),1,True,Alone,Low
+1,1,female,18.0,1,0,227.525,Cherbourg,First,woman,False,C,Cherbourg,yes,False,False,True,Survived,Teen (13-18),2,False,Small (2-4),Very high
+1,1,male,35.0,0,0,26.2875,Southampton,First,man,True,E,Southampton,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,High
+0,3,female,18.0,0,1,14.4542,Cherbourg,Third,woman,False,,Cherbourg,no,False,False,False,Died,Teen (13-18),2,False,Small (2-4),Medium
+0,3,male,25.0,0,0,7.7417,Queenstown,Third,man,True,,Queenstown,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,26.0,1,0,7.8542,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),Low
+0,2,male,39.0,0,0,26.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,High
+1,2,female,45.0,0,0,13.5,Southampton,Second,woman,False,,Southampton,yes,True,False,False,Survived,Middle-aged (36-60),1,True,Alone,Medium
+1,1,male,42.0,0,0,26.2875,Southampton,First,man,True,E,Southampton,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,High
+1,1,female,22.0,0,0,151.55,Southampton,First,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Very high
+1,1,female,24.0,0,0,49.5042,Cherbourg,First,woman,False,C,Cherbourg,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Very high
+0,1,male,40.0,0,0,26.55,Southampton,First,man,True,C,Southampton,no,True,True,True,Died,Middle-aged (36-60),1,True,Alone,High
+1,1,male,48.0,1,0,52.0,Southampton,First,man,True,C,Southampton,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+0,3,male,29.0,0,0,9.4833,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,2,male,52.0,0,0,13.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Medium
+0,3,male,19.0,0,0,7.65,Southampton,Third,man,True,F,Southampton,no,True,False,True,Died,Adult (19-35),1,True,Alone,Low
+1,1,female,38.0,0,0,227.525,Cherbourg,First,woman,False,C,Cherbourg,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,Very high
+1,2,female,27.0,0,0,10.5,Southampton,Second,woman,False,E,Southampton,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Medium
+0,3,male,25.0,0,0,15.5,Queenstown,Third,man,True,,Queenstown,no,True,True,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,male,33.0,0,0,7.775,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,2,female,6.0,0,1,33.0,Southampton,Second,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),2,False,Small (2-4),High
+0,3,male,17.0,1,0,7.0542,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Teen (13-18),2,False,Small (2-4),Low
+0,2,male,34.0,0,0,13.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,2,male,50.0,0,0,13.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Medium
+1,1,male,27.0,1,0,53.1,Southampton,First,man,True,E,Southampton,yes,False,False,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+0,3,male,20.0,0,0,8.6625,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+1,2,female,30.0,3,0,21.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),4,False,Small (2-4),High
+1,3,female,22.0,0,0,7.7375,Queenstown,Third,woman,False,,Queenstown,yes,True,True,False,Survived,Adult (19-35),1,True,Alone,Low
+0,2,male,25.0,1,0,26.0,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),High
+0,3,female,25.0,1,0,7.925,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),Low
+1,1,female,29.0,0,0,211.3375,Southampton,First,woman,False,B,Southampton,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Very high
+0,3,male,11.0,0,0,18.7875,Cherbourg,Third,child,False,,Cherbourg,no,True,False,False,Died,Child (0-12),1,True,Alone,High
+0,3,male,28.5,0,0,16.1,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,High
+0,3,female,48.0,1,3,34.375,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Middle-aged (36-60),5,False,Large (5+),Very high
+1,1,male,35.0,0,0,512.3292,Cherbourg,First,man,True,B,Cherbourg,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Very high
+1,1,male,40.0,0,0,30.0,Southampton,First,man,True,D,Southampton,yes,True,True,True,Survived,Middle-aged (36-60),1,True,Alone,High
+0,1,male,36.0,1,0,78.85,Southampton,First,man,True,C,Southampton,no,False,False,True,Died,Middle-aged (36-60),2,False,Small (2-4),Very high
+1,1,female,21.0,2,2,262.375,Cherbourg,First,woman,False,B,Cherbourg,yes,False,False,True,Survived,Adult (19-35),5,False,Large (5+),Very high
+0,3,male,24.0,1,0,16.1,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),High
+1,3,male,31.0,0,0,7.925,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+0,1,male,70.0,1,1,71.0,Southampton,First,man,True,B,Southampton,no,False,False,True,Died,Senior (60+),3,False,Small (2-4),Very high
+0,3,male,16.0,1,1,20.25,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Teen (13-18),3,False,Small (2-4),High
+1,2,female,30.0,0,0,13.0,Southampton,Second,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Medium
+0,1,male,19.0,1,0,53.1,Southampton,First,man,True,D,Southampton,no,False,False,True,Died,Adult (19-35),2,False,Small (2-4),Very high
+0,3,male,31.0,0,0,7.75,Queenstown,Third,man,True,,Queenstown,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,2,female,4.0,1,1,23.0,Southampton,Second,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),3,False,Small (2-4),High
+1,3,male,6.0,0,1,12.475,Southampton,Third,child,False,E,Southampton,yes,False,False,True,Survived,Child (0-12),2,False,Small (2-4),Medium
+0,3,male,33.0,0,0,9.5,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,male,23.0,0,0,7.8958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,2,female,48.0,1,2,65.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Middle-aged (36-60),4,False,Small (2-4),Very high
+1,2,male,0.67,1,1,14.5,Southampton,Second,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),3,False,Small (2-4),Medium
+0,3,male,28.0,0,0,7.7958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,1,female,33.0,0,0,86.5,Southampton,First,woman,False,B,Southampton,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,Very high
+0,3,male,41.0,0,0,7.125,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+1,3,male,20.0,0,0,7.2292,Cherbourg,Third,man,True,,Cherbourg,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+1,1,female,36.0,1,2,120.0,Southampton,First,woman,False,B,Southampton,yes,False,False,True,Survived,Middle-aged (36-60),4,False,Small (2-4),Very high
+0,3,male,16.0,0,0,7.775,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Teen (13-18),1,True,Alone,Low
+1,1,female,51.0,1,0,77.9583,Southampton,First,woman,False,D,Southampton,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+0,1,male,40.0,0,0,39.6,Cherbourg,First,man,True,,Cherbourg,no,True,True,False,Died,Middle-aged (36-60),1,True,Alone,Very high
+0,3,female,30.5,0,0,7.75,Queenstown,Third,woman,False,,Queenstown,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,25.0,1,0,24.15,Queenstown,Third,man,True,,Queenstown,no,False,True,False,Died,Adult (19-35),2,False,Small (2-4),High
+0,3,male,32.0,0,0,8.3625,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,male,24.0,0,0,9.5,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,male,48.0,0,0,7.8542,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+0,2,female,57.0,0,0,10.5,Southampton,Second,woman,False,E,Southampton,no,True,False,True,Died,Middle-aged (36-60),1,True,Alone,Medium
+1,2,female,54.0,1,3,23.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Middle-aged (36-60),5,False,Large (5+),High
+0,3,male,18.0,0,0,7.75,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Teen (13-18),1,True,Alone,Low
+0,3,male,25.0,0,0,7.75,Queenstown,Third,man,True,F,Queenstown,no,True,True,True,Died,Adult (19-35),1,True,Alone,Low
+1,3,female,5.0,0,0,12.475,Southampton,Third,child,False,,Southampton,yes,True,False,False,Survived,Child (0-12),1,True,Alone,Medium
+0,3,male,25.0,0,0,7.7375,Queenstown,Third,man,True,,Queenstown,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+1,1,female,43.0,0,1,211.3375,Southampton,First,woman,False,B,Southampton,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+1,3,female,13.0,0,0,7.2292,Cherbourg,Third,child,False,,Cherbourg,yes,True,False,False,Survived,Teen (13-18),1,True,Alone,Low
+1,1,female,17.0,1,0,57.0,Southampton,First,woman,False,B,Southampton,yes,False,False,True,Survived,Teen (13-18),2,False,Small (2-4),Very high
+0,1,male,29.0,0,0,30.0,Southampton,First,man,True,D,Southampton,no,True,False,True,Died,Adult (19-35),1,True,Alone,High
+0,3,male,25.0,1,2,23.45,Southampton,Third,man,True,,Southampton,no,False,True,False,Died,Adult (19-35),4,False,Small (2-4),High
+0,3,male,25.0,0,0,7.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,25.0,0,0,7.25,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+1,3,female,18.0,0,0,7.4958,Southampton,Third,woman,False,,Southampton,yes,True,False,False,Survived,Teen (13-18),1,True,Alone,Low
+0,3,male,8.0,4,1,29.125,Queenstown,Third,child,False,,Queenstown,no,False,False,False,Died,Child (0-12),6,False,Large (5+),High
+1,3,male,1.0,1,2,20.575,Southampton,Third,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),4,False,Small (2-4),High
+0,1,male,46.0,0,0,79.2,Cherbourg,First,man,True,B,Cherbourg,no,True,False,True,Died,Middle-aged (36-60),1,True,Alone,Very high
+0,2,male,16.0,0,0,26.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Teen (13-18),1,True,Alone,High
+0,1,male,40.0,0,0,30.6958,Cherbourg,First,man,True,,Cherbourg,no,True,True,False,Died,Middle-aged (36-60),1,True,Alone,High
+0,3,male,25.0,0,0,7.8958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,2,male,39.0,0,0,13.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Medium
+1,1,female,49.0,0,0,25.9292,Southampton,First,woman,False,D,Southampton,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,High
+1,3,female,31.0,0,0,8.6833,Southampton,Third,woman,False,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Medium
+0,3,male,30.0,0,0,7.2292,Cherbourg,Third,man,True,,Cherbourg,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,female,30.0,1,1,24.15,Southampton,Third,woman,False,,Southampton,no,False,False,False,Died,Adult (19-35),3,False,Small (2-4),High
+1,2,female,31.0,1,1,26.25,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),3,False,Small (2-4),High
+1,1,male,11.0,1,2,120.0,Southampton,First,child,False,B,Southampton,yes,False,False,True,Survived,Child (0-12),4,False,Small (2-4),Very high
+1,3,male,0.42,0,1,8.5167,Cherbourg,Third,child,False,,Cherbourg,yes,False,False,False,Survived,Child (0-12),2,False,Small (2-4),Medium
+1,3,male,27.0,0,0,6.975,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Low
+0,3,male,31.0,0,0,7.775,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,1,male,39.0,0,0,0.0,Southampton,First,man,True,A,Southampton,no,True,False,True,Died,Middle-aged (36-60),1,True,Alone,Low
+0,3,female,18.0,0,0,7.775,Southampton,Third,woman,False,,Southampton,no,True,False,False,Died,Teen (13-18),1,True,Alone,Low
+1,1,female,33.0,1,0,53.1,Southampton,First,woman,False,E,Southampton,yes,False,False,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+0,3,male,26.0,0,0,7.8875,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,39.0,0,0,24.15,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,High
+0,2,male,35.0,0,0,10.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,female,6.0,4,2,31.275,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),7,False,Large (5+),High
+0,3,male,30.5,0,0,8.05,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,1,male,40.0,0,0,0.0,Southampton,First,man,True,B,Southampton,no,True,True,True,Died,Middle-aged (36-60),1,True,Alone,Low
+0,3,female,23.0,0,0,7.925,Southampton,Third,woman,False,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,2,male,31.0,1,1,37.0042,Cherbourg,Second,man,True,,Cherbourg,no,False,False,False,Died,Adult (19-35),3,False,Small (2-4),Very high
+0,3,male,43.0,0,0,6.45,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+0,3,male,10.0,3,2,27.9,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),6,False,Large (5+),High
+1,1,female,52.0,1,1,93.5,Southampton,First,woman,False,B,Southampton,yes,False,False,True,Survived,Middle-aged (36-60),3,False,Small (2-4),Very high
+1,3,male,27.0,0,0,8.6625,Southampton,Third,man,True,,Southampton,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,Medium
+0,1,male,38.0,0,0,0.0,Southampton,First,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+1,3,female,27.0,0,1,12.475,Southampton,Third,woman,False,E,Southampton,yes,False,False,True,Survived,Adult (19-35),2,False,Small (2-4),Medium
+0,3,male,2.0,4,1,39.6875,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),6,False,Large (5+),Very high
+0,3,male,25.0,0,0,6.95,Queenstown,Third,man,True,,Queenstown,no,True,True,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,25.0,0,0,56.4958,Southampton,Third,man,True,,Southampton,no,True,True,False,Died,Adult (19-35),1,True,Alone,Very high
+1,2,male,1.0,0,2,37.0042,Cherbourg,Second,child,False,,Cherbourg,yes,False,False,False,Survived,Child (0-12),3,False,Small (2-4),Very high
+1,3,male,25.0,0,0,7.75,Queenstown,Third,man,True,,Queenstown,yes,True,True,False,Survived,Adult (19-35),1,True,Alone,Low
+1,1,female,62.0,0,0,80.0,Southampton,First,woman,False,B,,yes,True,False,True,Survived,Senior (60+),1,True,Alone,Very high
+1,3,female,15.0,1,0,14.4542,Cherbourg,Third,child,False,,Cherbourg,yes,False,False,False,Survived,Teen (13-18),2,False,Small (2-4),Medium
+1,2,male,0.83,1,1,18.75,Southampton,Second,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),3,False,Small (2-4),High
+0,3,male,23.0,0,0,7.8542,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,18.0,0,0,8.3,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Teen (13-18),1,True,Alone,Medium
+1,1,female,39.0,1,1,83.1583,Cherbourg,First,woman,False,E,Cherbourg,yes,False,False,True,Survived,Middle-aged (36-60),3,False,Small (2-4),Very high
+0,3,male,21.0,0,0,8.6625,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+1,1,male,40.0,0,0,29.7,Cherbourg,First,man,True,C,Cherbourg,yes,True,True,True,Survived,Middle-aged (36-60),1,True,Alone,High
+0,3,male,20.0,0,0,7.925,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,2,male,16.0,0,0,10.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Teen (13-18),1,True,Alone,Medium
+1,1,female,30.0,0,0,31.0,Cherbourg,First,woman,False,,Cherbourg,yes,True,False,False,Survived,Adult (19-35),1,True,Alone,High
+0,3,male,34.5,0,0,6.4375,Cherbourg,Third,man,True,,Cherbourg,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,42.0,0,0,7.55,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Low
+0,3,male,35.0,0,0,7.8958,Cherbourg,Third,man,True,,Cherbourg,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,2,male,28.0,0,1,33.0,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),High
+1,1,female,35.0,1,0,89.1042,Cherbourg,First,woman,False,C,Cherbourg,yes,False,True,True,Survived,Adult (19-35),2,False,Small (2-4),Very high
+0,3,male,4.0,4,2,31.275,Southampton,Third,child,False,,Southampton,no,False,False,False,Died,Child (0-12),7,False,Large (5+),High
+0,3,male,74.0,0,0,7.775,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Senior (60+),1,True,Alone,Low
+0,3,female,9.0,1,1,15.2458,Cherbourg,Third,child,False,,Cherbourg,no,False,False,False,Died,Child (0-12),3,False,Small (2-4),Medium
+1,1,female,16.0,0,1,39.4,Southampton,First,woman,False,D,Southampton,yes,False,False,True,Survived,Teen (13-18),2,False,Small (2-4),Very high
+0,2,female,44.0,1,0,26.0,Southampton,Second,woman,False,,Southampton,no,False,False,False,Died,Middle-aged (36-60),2,False,Small (2-4),High
+1,3,female,18.0,0,1,9.35,Southampton,Third,woman,False,,Southampton,yes,False,False,False,Survived,Teen (13-18),2,False,Small (2-4),Medium
+1,1,female,45.0,1,1,164.8667,Southampton,First,woman,False,,Southampton,yes,False,False,False,Survived,Middle-aged (36-60),3,False,Small (2-4),Very high
+1,1,male,51.0,0,0,26.55,Southampton,First,man,True,E,Southampton,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,High
+1,3,female,24.0,0,3,19.2583,Cherbourg,Third,woman,False,,Cherbourg,yes,False,False,False,Survived,Adult (19-35),4,False,Small (2-4),High
+0,3,male,41.0,2,0,14.1083,Southampton,Third,man,True,,Southampton,no,False,False,False,Died,Middle-aged (36-60),3,False,Small (2-4),Medium
+0,2,male,21.0,1,0,11.5,Southampton,Second,man,True,,Southampton,no,False,False,False,Died,Adult (19-35),2,False,Small (2-4),Medium
+1,1,female,48.0,0,0,25.9292,Southampton,First,woman,False,D,Southampton,yes,True,False,True,Survived,Middle-aged (36-60),1,True,Alone,High
+0,2,male,24.0,0,0,13.0,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+1,2,female,42.0,0,0,13.0,Southampton,Second,woman,False,,Southampton,yes,True,False,False,Survived,Middle-aged (36-60),1,True,Alone,Medium
+1,2,female,27.0,1,0,13.8583,Cherbourg,Second,woman,False,,Cherbourg,yes,False,False,False,Survived,Adult (19-35),2,False,Small (2-4),Medium
+0,1,male,31.0,0,0,50.4958,Southampton,First,man,True,A,Southampton,no,True,False,True,Died,Adult (19-35),1,True,Alone,Very high
+0,3,male,25.0,0,0,9.5,Southampton,Third,man,True,,Southampton,no,True,True,False,Died,Adult (19-35),1,True,Alone,Medium
+1,3,male,4.0,1,1,11.1333,Southampton,Third,child,False,,Southampton,yes,False,False,False,Survived,Child (0-12),3,False,Small (2-4),Medium
+1,1,female,47.0,1,1,52.5542,Southampton,First,woman,False,D,Southampton,yes,False,False,True,Survived,Middle-aged (36-60),3,False,Small (2-4),Very high
+0,1,male,33.0,0,0,5.0,Southampton,First,man,True,B,Southampton,no,True,False,True,Died,Adult (19-35),1,True,Alone,Low
+0,3,male,47.0,0,0,9.0,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Middle-aged (36-60),1,True,Alone,Medium
+1,2,female,28.0,1,0,24.0,Cherbourg,Second,woman,False,,Cherbourg,yes,False,False,False,Survived,Adult (19-35),2,False,Small (2-4),High
+1,3,female,15.0,0,0,7.225,Cherbourg,Third,child,False,,Cherbourg,yes,True,False,False,Survived,Teen (13-18),1,True,Alone,Low
+0,3,male,20.0,0,0,9.8458,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+1,1,female,56.0,0,1,83.1583,Cherbourg,First,woman,False,C,Cherbourg,yes,False,False,True,Survived,Middle-aged (36-60),2,False,Small (2-4),Very high
+1,2,female,25.0,0,1,26.0,Southampton,Second,woman,False,,Southampton,yes,False,False,False,Survived,Adult (19-35),2,False,Small (2-4),High
+0,3,male,33.0,0,0,7.8958,Southampton,Third,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low
+0,3,female,22.0,0,0,10.5167,Southampton,Third,woman,False,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,2,male,28.0,0,0,10.5,Southampton,Second,man,True,,Southampton,no,True,False,False,Died,Adult (19-35),1,True,Alone,Medium
+0,3,female,39.0,0,5,29.125,Queenstown,Third,woman,False,,Queenstown,no,False,False,False,Died,Middle-aged (36-60),6,False,Large (5+),High
+1,1,female,19.0,0,0,30.0,Southampton,First,woman,False,B,Southampton,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,High
+0,3,female,22.0,1,2,23.45,Southampton,Third,woman,False,,Southampton,no,False,True,False,Died,Adult (19-35),4,False,Small (2-4),High
+1,1,male,26.0,0,0,30.0,Cherbourg,First,man,True,C,Cherbourg,yes,True,False,True,Survived,Adult (19-35),1,True,Alone,High
+0,3,male,32.0,0,0,7.75,Queenstown,Third,man,True,,Queenstown,no,True,False,False,Died,Adult (19-35),1,True,Alone,Low

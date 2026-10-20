@@ -1,0 +1,75 @@
+============================================================
+TITANIC SURVIVAL ANALYSIS - SUMMARY
+============================================================
+Passengers analysed : 784
+Overall survival    : 41.2%  (323 survived, 461 died)
+Missing values fixed: {'age': 177, 'embarked': 2, 'deck': 688, 'embark_town': 2}
+
+Survival by Passenger class:
+        survival_rate_%  passengers
+pclass                             
+1                  63.1         214
+2                  50.9         165
+3                  25.7         405
+
+Survival by Gender:
+        survival_rate_%  passengers
+sex                                
+female             74.1         293
+male               21.6         491
+
+Survival by Age group:
+                     survival_rate_%  passengers
+age_group                                       
+Child (0-12)                    57.4          68
+Teen (13-18)                    44.8          67
+Adult (19-35)                   40.2         415
+Middle-aged (36-60)             38.7         212
+Senior (60+)                    22.7          22
+
+Survival by Family size:
+              survival_rate_%  passengers
+family_group                             
+Alone                    33.6         446
+Small (2-4)              57.6         283
+Large (5+)               18.2          55
+
+Survival by Port of embarkation:
+             survival_rate_%  passengers
+embarked                                
+Cherbourg               58.1         155
+Queenstown              33.9          59
+Southampton             37.4         570
+
+Survival by Fare band:
+           survival_rate_%  passengers
+fare_band                             
+Low                   23.4         214
+Medium                35.8         179
+High                  45.6         195
+Very high             61.2         196
+
+Survival by Class x Gender (%):
+sex     female  male
+pclass              
+1         96.8  37.2
+2         91.8  18.5
+3         47.2  15.8
+
+Average age / fare (survivors vs. non-survivors):
+            age   fare
+survival              
+Died      30.52  23.94
+Survived  28.39  50.08
+
+Correlation with survival (Pearson r):
+  pclass       -0.333
+  fare         +0.247
+  age          -0.075
+  family_size  +0.015
+
+KEY FINDINGS
+  - Women survived at 74% vs. men at 22%.
+  - 1st class survival was 63% vs. 26% in 3rd class.
+  - Best-surviving age group: Child (0-12) (57%); worst: Senior (60+) (23%).
+============================================================
